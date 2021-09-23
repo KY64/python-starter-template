@@ -30,7 +30,7 @@ Install the required Github Apps from Marketplace (skip this part if it's alread
 
 ### 2. Use The Template
 
-Click **Use This Template** on repository page
+Click **[Use This Template](https://github.com/KY64/python-starter-template/generate)** on repository page
 
 ## Project Structure
 
