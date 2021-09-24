@@ -36,6 +36,8 @@ Click **[Use This Template](https://github.com/KY64/python-starter-template/gene
 
 #### Permission
 
+> These steps are applied for configuring both Codecov and DeepSource
+
 Since the apps may not work properly when you use this template, it may be because the apps don't have permission to access it. Here's how to configure it:
 
 1. Go to [applications settings](https://github.com/settings/installations)
@@ -46,8 +48,6 @@ Since the apps may not work properly when you use this template, it may be becau
 3. On "Repository Access" section, there are two options you can choose, if you check **All repositories** then skip this step. Otherwise, see the figure below:
 
 ![Select "Only selected repositories" option then click save button](doc/codecov_selectRepository.jpg)
-
-> These steps are applied for configuring both Codecov and DeepSource
 
 #### DeepSource
 
